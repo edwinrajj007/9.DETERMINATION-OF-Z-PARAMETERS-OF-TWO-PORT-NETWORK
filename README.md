@@ -30,13 +30,17 @@ Here Z11& Z22 are the input & output driving point impedances while Z12& Z21 are
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1425" height="1600" alt="image" src="https://github.com/user-attachments/assets/50d8d67f-f5a0-4550-b737-bce1a2155db6" />
 
 
 **TABULATION:**
 
+<img width="1600" height="1097" alt="image" src="https://github.com/user-attachments/assets/bd14f5d2-f1a1-4e4d-9adf-ff6d97744ac5" />
 
 
-
+**Simulation output**
+<img width="1600" height="736" alt="image" src="https://github.com/user-attachments/assets/e874ab17-ef42-443d-814c-71cdfade7670" />
+<img width="1600" height="903" alt="image" src="https://github.com/user-attachments/assets/40996e05-0dde-4014-8158-4b225576dbfe" />
 
 
 **PROCEDURE:**
@@ -48,6 +52,7 @@ d)	Calculate the values of Z parameter using Equation (1) &(2).
 e)	Switch ‘OFF’ the supply after taking thereadings.
 
 **Mark split up:**
+<img width="1080" height="1465" alt="image" src="https://github.com/user-attachments/assets/c805351f-4d81-4430-b4a4-805bff9c1953" />
 
 
 **RESULT:**
